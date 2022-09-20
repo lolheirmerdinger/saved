@@ -1,14 +1,14 @@
 {
     "name": "Save Restricted Bot",
-    "description": "Saves restricted content",
+    "description": "Saved",
     "logo": "",
     "keywords": [
-        "A",
-        "telegram",
-        "save restricted",
+        "Save",
+        "Me",
+        "I need help",
         "bot"
     ],
-    "repository": "https://github.com/ymwd/anktsavecont.2",
+    "repository": "https://github.com/lolheirmerdinger/saved",
     "website": "",
     "success_url": "https://t.me/url_uploader_A",
     "env": {
